@@ -1,0 +1,14 @@
+cli-tool/components/mcps/devtools/tday.json
+  h_da61ae801e8c5c 1-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7846faef6de2a53f6a10203204ebc4317363dd2b",
+  "prompts": {},
+  "humans": {
+    "h_da61ae801e8c5c": {
+      "author": "Cyrus Kelly <101790022+cyruskelly@users.noreply.github.com>"
+    }
+  }
+}
